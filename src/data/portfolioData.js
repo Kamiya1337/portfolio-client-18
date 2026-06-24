@@ -3,7 +3,7 @@ import { FolderTree, Search, MessageSquare, Users, PenTool, ShieldCheck, Languag
 export const portfolioData = {
   student: {
     name: "Đặng Thị Đặng Thị Khánh Ly",
-    id: "K70",
+    id: "K59",
     major: "Ngôn ngữ và Văn hóa Anh",
     university: "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội (ULIS - VNU)",
     bio: "Portfolio nhằm lưu trữ, hệ thống hóa các sản phẩm học tập đã thực hiện trong học phần, đồng thời thể hiện quá trình phát triển kiến thức, kỹ năng số và làm cơ sở theo dõi sự tiến bộ của bản thân trong tương lai.",
