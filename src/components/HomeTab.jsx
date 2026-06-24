@@ -65,11 +65,11 @@ export default function HomeTab({ setActiveTab }) {
                 <div className="relative overflow-hidden rounded-2xl">
                   <img
                     src="/avatar.jpg"
-                    alt={"Khánh Ly"}
+                    alt={"Đặng Thị Khánh Ly"}
                     className="h-70 w-full object-cover"
                   />
                   <span className="absolute bottom-3 left-3 rounded-lg bg-white/95 px-3 py-2 text-xs font-bold text-academic-blue shadow-sm">
-                    {"Khánh Ly"}
+                    {"Đặng Thị Khánh Ly"}
                   </span>
                 </div>
               </div>

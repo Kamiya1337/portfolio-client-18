@@ -6,8 +6,7 @@ export default function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMo
     { id: 'projects', icon: BookOpen, label: 'Bài tập / Dự án' },
     { id: 'evidence', icon: FileCheck, label: 'Bảng Minh chứng' },
     { id: 'rubric', icon: CheckSquare, label: 'Rubric / Đánh giá' },
-    { id: 'summary', icon: MessageSquare, label: 'Tổng kết cá nhân' },
-    { id: 'print', icon: Printer, label: 'Bản in (PDF)' },
+    { id: 'summary', icon: MessageSquare, label: 'Tổng kết cá nhân' }
   ];
 
   return (
@@ -29,7 +28,7 @@ export default function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMo
           <div className="flex items-center gap-3 mb-2">
             <div className="w-11 h-11 rounded-full bg-academic-blue flex items-center justify-center text-white font-bold text-sm tracking-wide shadow-lg ring-2 ring-pink-200">HT</div>
             <div>
-              <h2 className="text-xl font-bold text-academic-ink leading-tight">Khánh Ly</h2>
+              <h2 className="text-xl font-bold text-academic-ink leading-tight">Đặng Thị Khánh Ly</h2>
               <span className="text-xs text-academic-blue font-medium">Ngôn ngữ và Văn hóa Anh</span>
               <span className="block text-[11px] text-academic-muted mt-0.5">ULIS - VNU</span>
             </div>
